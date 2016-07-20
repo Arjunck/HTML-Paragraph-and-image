@@ -1,1 +1,0 @@
-# HTML-Paragraph-and-image
